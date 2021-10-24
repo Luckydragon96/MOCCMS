@@ -1,4 +1,4 @@
-# Multi-objective Cooperative Coevolution Algorithm with a Master-Slave Mechanism for Seru Production (MOCCMS)
+## Multi-objective Cooperative Coevolution Algorithm with a Master-Slave Mechanism for Seru Production (MOCCMS)
 ### This is an open-source GitHub project complementary to the jornal paper, which has been submitted to Applied Soft Computing (under review).
 
 ### Status update on Oct 24, 2021
@@ -9,4 +9,4 @@ Prerequisites: the codes are tested in C#.net.
 
 Run the following .sln file directly:
 
-MOCCMS_NSGA2.sln
+MOCCSNMS_NSGA2.sln
