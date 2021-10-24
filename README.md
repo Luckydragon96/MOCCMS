@@ -7,6 +7,6 @@ A major revision is made and the paper is under review now.
 ### How to run
 Prerequisites: the codes are tested in C#.net.
 
-Run the following m file directly:
+Run the following .sln file directly:
 
-cases_statistics_test.m
+MOCCMS_NSGA2.sln
