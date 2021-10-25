@@ -13,7 +13,7 @@ Run the following .sln file directly:
 MOCCSNMS_NSGA2.sln
 
 ### Comparison Algorithm
-The code of comparison algorithms are as follows.
+The codes of comparison algorithms are as follows.
 
 NSGA-II:https://github.com/Luckydragon96/NSGA_II
 
