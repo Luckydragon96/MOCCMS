@@ -6,6 +6,7 @@ A major revision is made and the paper is under review now.
 
 ### How to run
 Prerequisites: the codes are tested in C#.net.
+"实验数据4.xls" needs to be copied to D:\.
 
 Run the following .sln file directly:
 
@@ -14,9 +15,9 @@ MOCCSNMS_NSGA2.sln
 ### Comparison Algorithm
 The code of comparison algorithms are as follows.
 
-NSGA-II：https://github.com/Luckydragon96/NSGA_II
+NSGA-II:https://github.com/Luckydragon96/NSGA_II
 
-CCMO：https://github.com/Luckydragon96/CCMO
+CCMO:https://github.com/Luckydragon96/CCMO
 
 MOCC-II:https://github.com/Luckydragon96/MOCC_II
 
