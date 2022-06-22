@@ -16,8 +16,6 @@ MOCCSNMS_NSGA2.sln
 ### Comparison Algorithm
 The codes of comparison algorithms are as follows.
 
-NSGA-II:https://github.com/Luckydragon96/NSGA_II
-
 CCMO:https://github.com/Luckydragon96/CCMO
 
 MOCC-II:https://github.com/Luckydragon96/MOCC_II
